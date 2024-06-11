@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero.min-h-screen{
+  background-image: url("https://unsplash.com/photos/a-black-and-white-butterfly-sitting-on-a-green-leaf-PUNw-BaSt5g");
+}
